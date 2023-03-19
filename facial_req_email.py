@@ -20,7 +20,7 @@ encodingsP = "encodings.pickle"
 #use this xml file
 cascade = "haarcascade_frontalface_default.xml"
 #function to announce
-API_Key = "473f17cedd26e5b5331353fcc5c17114"
+API_Key = "your_key_here"
 location = "Bhubaneswar"
 weather_url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid="
 final_url = weather_url + API_Key
