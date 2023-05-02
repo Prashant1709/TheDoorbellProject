@@ -4,25 +4,25 @@ This project uses a Raspberry Pi to build a smart doorbell that uses face recogn
 
 ## Table of Contents
 
-Hardware Requirements
-Software Requirements
-License
+- Hardware Requirements
+- Software Requirements
+- License
 
 ## Hardware Requirements
 
-Raspberry Pi (preferably Raspberry Pi 4)
-Pi Camera Module
-USB Microphone
-Speakers
-Doorbell Button
-Electric Strike Lock
-Relay Module
-Power Supply
+- Raspberry Pi (preferably Raspberry Pi 4)
+- Pi Camera Module
+- USB Microphone
+- Speakers
+- Doorbell Button
+- Electric Strike Lock
+- Relay Module
+- Power Supply
 
 
 ## Software Requirements
 
-Raspbian OS
-OpenCV
-Dlib
-Python 3
+- Raspbian OS
+- OpenCV
+- Dlib
+- Python 3
